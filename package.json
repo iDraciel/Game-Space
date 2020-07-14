@@ -8,11 +8,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "expo": "~38.0.8",
+    "expo-av": "~8.2.1",
     "expo-status-bar": "^1.0.2",
+    "expo-video-player": "^1.5.8",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-af-video-player": "^0.2.1",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
